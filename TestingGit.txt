@@ -1,1 +1,0 @@
-With this .txt file I'm testing the git options using the command line 
